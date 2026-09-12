@@ -26,6 +26,10 @@ Items needed:
 
 You will need to remove U1 and C4 from a DMG-UFDT-01 cartridge (keep C4). Line up the flash adapter board and drag solder the pads. Ensure that all pads are making a connections with a continuity check. Solder on the AM29F016 chip, C4, and then solder a wire from the WR pad of the flash adapter to Pin 31 of the DMG-UFDT-01 board. Flash using the flasher of your choice. 
 
+# Credit
+
+All credit goes to Steelfoot for documenting the schematics and wiring of the DMG-UFDT-01. 
+
 # License
 
  [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
