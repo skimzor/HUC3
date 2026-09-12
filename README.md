@@ -17,6 +17,13 @@ Download the gerbers and upload them to your PCB fabricator of choice (I have on
 
 As mentioned above in the disclaimer, assembly of this PCB requires advance soldering experience and ability to self-troubleshoot any issues.
 
+Items needed:
+
+- DMG-UFDT-01 donor cartridge
+- AM29F016 IC Flash Chip
+- Pickup Wire
+- insideGadgets GBxCart RW (or flasher of your choice)
+
 You will need to remove U1 and C4 from a DMG-UFDT-01 cartridge (keep C4). Line up the flash adapter board and drag solder the pads. Ensure that all pads are making a connections with a continuity check. Solder on the AM29F016 then solder a wire from the WR pad of the flash adapter to Pin 31 of the DMG-UFDT-01 board. Flash using the flasher of your choice. 
 
 # License
